@@ -11,11 +11,13 @@ Shows what port opens on the IP
 
 → Else we print out error message
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 - Add pretty banner show IP target and time
 
 → just showing target IP Address and time start scan
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 - Basic mechanism of the port scan
 
@@ -23,6 +25,7 @@ Shows what port opens on the IP
 
 → If the port open, it shows the confirmation message
 
+-----------------------------------------------------------------------------------------------------------------------------
 
 - Error handling for port scan
 
@@ -31,3 +34,5 @@ Shows what port opens on the IP
 → Second error is for where the website name not available IP
 
 → Third error if you don't have Internet
+
+-----------------------------------------------------------------------------------------------------------------------------
