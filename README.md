@@ -11,15 +11,18 @@ Shows what port opens on the IP
 
 → Else we print out error message
 
+
 - Add pretty banner show IP target and time
 
 → just showing target IP Address and time start scan
+
 
 - Basic mechanism of the port scan
 
 → This for loop scans from port 1 to 65535
 
 → If the port open, it shows the confirmation message
+
 
 - Error handling for port scan
 
